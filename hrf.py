@@ -207,29 +207,3 @@ class HrfRetrieval(object):
                      self.cond[c]['average_hrf'] = mean_hrf - mean_prestim[:,None]
         else:
             raise UserDefinedException('Metric can only be FIR/average!')
-
-            
-            
-            
-            
-            
-            
-            
-            
-
-                
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
