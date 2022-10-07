@@ -2,6 +2,8 @@
 """
 Spyder Editor
 
+Author: Yuanfang Zhao
+2021 at Donders Institute for Brain, Cognition and Behaviour
 
 """
 
